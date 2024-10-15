@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://srish0218.github.io/Portfolio">📄 Explore my portfolio</a> | 
+<!--   <a href="https://srish0218.github.io/Portfolio">📄 Explore my portfolio</a> |  -->
   <a href="https://github.com/srish0218?tab=repositories">👀 Check out my repositories</a>
 </p>
 
